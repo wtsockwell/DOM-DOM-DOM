@@ -1,0 +1,8 @@
+.hidden{
+    display:none
+}
+.lego:hover > h1{
+    color:darkred;
+    text-align: center;
+    display: block
+}
